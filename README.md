@@ -46,4 +46,4 @@ Tl;dr
 7. Going to properly pursue steps to becoming a Data Scientist.
 8. Will start by learning Github.
 
-Wish me luck!
+Wish me luck
